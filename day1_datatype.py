@@ -1,0 +1,16 @@
+#print("swec")
+#var1="python"
+#print("good morning",var1)
+#name=input("enter you name\n")
+#print("hello",name)
+#name=input("enter your name")
+#age=input("enter your age")
+#print(f"hello,{name} your age is,{age}")
+#name=input("enter your name")
+#sub1= int(input("enter your marks"))
+#sub2= int(input("enter your marks"))
+#sub3= int(input("enter your marks"))
+#print(f"your marks are{sub1+sub2+sub3},and avg is{sub1+sub2+sub3/3}")
+#name="hello"
+#print(name,end=" @@ ")
+#print(name)
