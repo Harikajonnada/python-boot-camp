@@ -1,0 +1,9 @@
+# find area of circle
+# to find perimeter of circle
+# to find area of triangle
+# to find perimeter of triangle
+#learning square root of a nums
+a=int(input())
+pi=3.14
+print(2*pi*a)
+print(2*pi*a**2)
